@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "779589265062",
+    "project_id": "recepieapp-abc9b",
+    "storage_bucket": "recepieapp-abc9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779589265062:android:a4d7d0dc9225083d51b667",
+        "android_client_info": {
+          "package_name": "com.example.recepie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779589265062-6c2r4lrt0m7274qucfv5v6mbeg0bh0if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recepie_app",
+            "certificate_hash": "c81db53c3de9958ea0ef171ac5ca42e9c1ae5e1e"
+          }
+        },
+        {
+          "client_id": "779589265062-1mr6j2bnum07fkbvlpv5uikgkknsevt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTr9w2-RGnfsp7ORsouxANIDaomQPjrYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779589265062-1mr6j2bnum07fkbvlpv5uikgkknsevt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
