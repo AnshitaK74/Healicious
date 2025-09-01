@@ -1,16 +1,18 @@
-# recepie_app
+# Healicious
 
-A new Flutter project.
+** Healicious is a Flutter-powered mobile app designed to simplify healthy living. It offers diet plans, meal tracking, and personalized recommendations for conditions like PCOS, diabetes, and obesity. The app focuses on gut-friendly cuisines (Japanese, Indian, Thai, Mexican, Italian, Chinese) and allows users to explore structured day-wise meal plans with nutrition breakdowns.
 
-## Getting Started
+Features
+📲 User Authentication – Secure login & signup with Firebase.
+🍽 Daily Meal Plans – Cuisine-based diet plans (PCOS, diabetes, obesity, gut health).
+🥗 Nutritional Breakdown – Calories, proteins, carbs, fiber, and fats per meal.
+🌍 Multi-Cuisine Support – Indian, Japanese, Thai, Mexican, Italian, Chinese.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter (Dart)
+Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👉 [Download Healicious APK]
+https://drive.google.com/file/d/1CA1fCJpDtUTw8EbLeK--P2kSawQ9ue84/view?usp=sharing
